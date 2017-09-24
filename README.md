@@ -1,0 +1,1 @@
+# name-plate-details-py
